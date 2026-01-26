@@ -1,6 +1,6 @@
 Copropriété Hennoque-Peuplier
 - 4-6 rue Chales FOURIER
-- 20-22 Passage FOUBERS
+- 20-22 Passage FOUBERT
 
 # Contacts
 
@@ -11,3 +11,4 @@ Conseil Syndical!
 - Christiane LABATUT
 - Véronique PELTIER
 - Pierre-Jean DEVILLE
+
